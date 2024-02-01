@@ -288,7 +288,6 @@
   <block id="18c27fdda3b31de582a5c418705a0eab" category="paragraph">Es posible que el clúster se cree demore hasta 30 minutos.</block>
   <block id="aa28e7538205e834e26c77f5630f8893" category="list-text">Supervise el proceso de creación de un clúster en varios pasos para confirmar que el clúster se ha creado correctamente.</block>
   <block id="037cb8cf634438a48c4a376dd2eaecea" category="paragraph">La página se actualiza automáticamente a intervalos regulares.</block>
-  <block id="d4f87fedecd0cb118e567859f3b4f8b0" category="admonition">Si se inicia la operación de creación de clúster, pero no se puede completar, es posible que la contraseña de administrador de ONTAP que defina no se haya registrado. En este caso, puede acceder a la interfaz de gestión del clúster de ONTAP Select mediante la contraseña _changeme123_ para la cuenta de administrador.</block>
   <block id="c29c0fa60d66b44a13904899d8712c68" category="open-title">Clúster multinodo</block>
   <block id="1c9615c8466b4b5438d388b4200a58b4" category="list-text">Si aparece la ventana emergente *Bienvenido a ONTAP Select*, confirma que has cumplido con los requisitos previos de configuración y haz clic en *Aceptar*.</block>
   <block id="736cb4ef7019568859d8e044e044c906" category="list-text">En la página *Introducción*, haga clic en *cargar* y seleccione una licencia de su estación de trabajo local y haga clic en *Abrir* para cargar la licencia. Repita el procedimiento para agregar una segunda licencia.</block>
@@ -3841,4 +3840,5 @@ Interconexión de clústeres
   <block id="cfc60e5db5da2e3856f4ae65f1b4493b" category="cell">Cambio de tamaño del equipo virtual ONTAP Select (pequeño a mediano, mediano a grande)</block>
   <block id="5afd324114e926d9bb06b382e5c6f40e" category="cell">Aplicación: Licencia caducada</block>
   <block id="71781f9ea0fb446c6a84f96eac4f474f" category="cell">Sí (sin periodo de gracia)</block>
+  <block id="f1309e50d04ac13d06dbb8ce9e13947d" category="admonition">Si se inicia la operación de creación de clúster, pero no se puede completar, es posible que la contraseña de administrador de ONTAP que defina no se aplique. Si esto sucede, comuníquese con el soporte técnico de NetApp para obtener ayuda.</block>
 </blocks>

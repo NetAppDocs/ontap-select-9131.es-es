@@ -130,10 +130,6 @@ Es posible que el clúster se cree demore hasta 30 minutos.
 +
 La página se actualiza automáticamente a intervalos regulares.
 
-+
-
-TIP: Si se inicia la operación de creación de clúster, pero no se puede completar, es posible que la contraseña de administrador de ONTAP que defina no se haya registrado. En este caso, puede acceder a la interfaz de gestión del clúster de ONTAP Select mediante la contraseña _changeme123_ para la cuenta de administrador.
-
 
 
 --
@@ -180,13 +176,12 @@ El clúster puede tardar hasta 45 minutos en crearse.
 +
 La página se actualiza automáticamente a intervalos regulares.
 
-+
-
-TIP: Si se inicia la operación de creación de clúster, pero no se puede completar, es posible que la contraseña de administrador de ONTAP que defina no se haya registrado. En este caso, puede acceder a la interfaz de gestión del clúster de ONTAP Select mediante la contraseña _changeme123_ para la cuenta de administrador.
-
 
 
 --
 ====
 .Después de terminar
 Es necesario confirmar que la función ONTAP Select AutoSupport está configurada y, a continuación, realizar un backup de los datos de configuración de implementación de ONTAP Select.
+
+
+TIP: Si se inicia la operación de creación de clúster, pero no se puede completar, es posible que la contraseña de administrador de ONTAP que defina no se aplique. Si esto sucede, comuníquese con el soporte técnico de NetApp para obtener ayuda.
