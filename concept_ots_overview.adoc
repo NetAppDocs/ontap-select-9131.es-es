@@ -94,6 +94,7 @@ No son compatibles con Fibre Channel ni Fibre Channel sobre Ethernet.
 La supervisión de estado tradicional utilizada con una puesta en marcha de ONTAP basada en hardware es específica de los componentes de hardware subyacentes. Gracias al entorno virtualizado que se utiliza con ONTAP Select, los monitores de estado no están activos.
 * Grupos de interfaces
 No se admiten los grupos de interfaces.
+* Gestor de claves multi-tenant (MTKM)
 * Compatibilidad con descarga de NIC
 Debido al entorno virtualizado que se utiliza con ONTAP Select, no se admite la instalación de descarga de NIC.
 * Unidades de cifrado del almacenamiento de NetApp
