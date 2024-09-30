@@ -31,7 +31,7 @@ NetApp actualiza periódicamente ONTAP Select para ofrecerle nuevas funciones y 
 ONTAP Select 9.13.1 incluye varias funciones y mejoras nuevas.
 
 Compatibilidad con NVMe sobre TCP:: Cuando actualice a ONTAP Select 9.13.1, debe tener la nueva licencia para admitir NVMe over TCP. Esta licencia se incluye automáticamente cuando se implementa ONTAP Select por primera vez desde la versión 9.13.1.
-Se ha actualizado el soporte de VMware ESXi:: A partir de ONTAP 9.13.1, se admite VMware ESXi 8,0 GA (compilación 20513097) con la versión de hardware 4 y posteriores.
+Se ha actualizado el soporte de VMware ESXi:: A partir de ONTAP 9.13,1, se admite VMware ESXi 8.0.1 GA (compilación 20513097) con las versiones de hardware 4 y posteriores.
 Soporte actualizado de ONTAP Select Deploy:: A partir de abril de 2024, ONTAP Select Deploy 9.13.1 ya no está disponible en el sitio de soporte de NetApp. Si ejecuta ONTAP Select Deploy 9.13.1, debe actualizar a ONTAP Select Deploy 9.14.1P2 lo antes posible. Para obtener más información, consulte link:https://library.netapp.com/ecm/ecm_download_file/ECMLP2886733["Notas de la versión de ONTAP Select 9.14.1"^].
 
 
